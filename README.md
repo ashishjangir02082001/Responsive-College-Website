@@ -12,7 +12,7 @@ It is completely responsive for all screen sizes. For this, I have taken help fr
 
 ### *To visit the website, click on the below mentioned link:*
 
-https://ashishjangir02082001.github.io/Demo---College-Website/index.html
+https://ashishjangir02082001.github.io/Responsive-College-Website/contact.html
 
 ### Another website:
 
